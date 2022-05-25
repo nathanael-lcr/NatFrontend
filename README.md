@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on **a React Native mobile app**
+- 👯 I’m looking to collaborate on a **React Native mobile app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
