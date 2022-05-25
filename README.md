@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natfrontend&label=Profile%20views&color=blueviolet&style=flat" alt="natfrontend" /> </p>
 
-- 🔭 I’m currently working on **a Flask project**
+- 🔭 I’m currently working on **Python Video Game**
 
 - 🌱 I’m currently learning **C**
 
